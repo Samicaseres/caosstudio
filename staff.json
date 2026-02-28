@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "1",
+    "nombre": "zSxmy",
+    "rol": "CEO",
+    "online": true
+  },
+  {
+    "id": "2",
+    "nombre": "Player_Uno",
+    "rol": "PLAYER",
+    "online": false
+  },
+  {
+    "id": "3",
+    "nombre": "Moderador_X",
+    "rol": "DIOSES",
+    "online": true
+  }
+]
