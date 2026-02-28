@@ -5,5 +5,12 @@
     "correo": "admin@caosstudio.com",
     "rol": "CEO",
     "online": true
+  },
+  {
+    "id": "2",
+    "nombre": "Staff_Uno",
+    "correo": "staff@caosstudio.com",
+    "rol": "DIOSES",
+    "online": false
   }
 ]
