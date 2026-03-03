@@ -1,10 +1,15 @@
 {
-  "admins": [
+  "system": {
+    "maintenanceMode": false,
+    "forceUpdate": false
+  },
+  "news": [
     {
-      "username": "CEO_CAOS",
-      "passwordHash": "Caos!2026#Olimpo",
-      "role": "DIOSITO",
-      "permissions": ["all"]
+      "title": "mine",
+      "content": "caosland",
+      "date": "3/3/2026"
     }
-  ]
+  ],
+  "visitors": [],
+  "users": []
 }
