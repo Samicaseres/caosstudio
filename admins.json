@@ -3,14 +3,32 @@
     {
       "username": "CEO_CAOS",
       "passwordHash": "b9e719114f88467d3e5e6e87c0e5a643936056637176464f26019f20c9f13110",
-      "role": "CEO",
-      "permissions": ["all", "manage_admins", "edit_config", "view_logs"]
+      "role": "DIOSITO",
+      "permissions": ["all", "manage_admins", "edit_config"]
     },
     {
-      "username": "ADMIN_PRIME",
+      "username": "DIOSITO_ZEUS",
       "passwordHash": "5c9f528087d00f727c95777197a9f9390230f305c2a110034a742024f0f6222b",
-      "role": "ADMIN",
-      "permissions": ["edit_news", "manage_mods", "view_logs"]
+      "role": "DIOSITO",
+      "permissions": ["all"]
+    },
+    {
+      "username": "DEV_HEFESTO",
+      "passwordHash": "d5e8f42163e29f9571060965e8d8d7d8e630283c7a9412154460f12447926214",
+      "role": "DEV",
+      "permissions": ["edit_config", "manage_mods", "debug_mode"]
+    },
+    {
+      "username": "STAFF_ALPHA",
+      "passwordHash": "4d2e5399580a651911f976527092176211488738959141444192621447926214",
+      "role": "STAFF",
+      "permissions": ["view_logs", "manage_whitelist"]
+    },
+    {
+      "username": "STAFF_OMEGA",
+      "passwordHash": "7a8c3e2183e29f9571060965e8d8d7d8e630283c7a9412154460f12447926214",
+      "role": "STAFF",
+      "permissions": ["view_logs", "manage_whitelist"]
     }
   ]
 }
