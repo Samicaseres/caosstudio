@@ -2,7 +2,7 @@
   "serverConfig": {
     "name": "CAOSLAND",
     "mcVersion": "1.20.1",
-    "forgeVersion": "1.20.1-forge-47.4.16",
+    "forgeVersion": "1.18.2-forge-40.2.0",
     "modpackUrl": "https://github.com/Samicaseres/caosstudio/releases/download/v1.0.1/Base_Caos.zip"
   },
   "announcements": [
@@ -20,13 +20,6 @@
     }
   ],
   "visitors": [
-    {
-      "name": "zSxmy",
-      "minecraftName": "zSxmy",
-      "type": "Premium",
-      "ip": "186.132.238.82",
-      "date": "4/3/2026, 04:16:35"
-    },
     {
       "name": "zSxmy",
       "minecraftName": "zSxmy",
