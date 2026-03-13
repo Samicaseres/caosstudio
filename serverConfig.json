@@ -6,7 +6,7 @@
   "modpackUrl": "https://www.dropbox.com/scl/fi/wzi6nta21gpyl6vleb6tm/modpack.zip?rlkey=s4640p2d500jgk2uclgs7v4n4&st=tfujidet&dl=0",
   "showNews": true,
   "maintenanceMode": false,
-  "strictMode": false,
+  "strictMode": true,
   "announcements": [
     {
       "title": "BIENVENIDO",
